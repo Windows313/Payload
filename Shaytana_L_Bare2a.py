@@ -20,7 +20,7 @@
 
 import sys
 import optparse
-from core.misc import printt
+from core.misc import print
 from core.config import user_agent as usera
 
 def tests_pyver():
